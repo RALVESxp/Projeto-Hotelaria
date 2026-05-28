@@ -1,5 +1,5 @@
 <readme>
-# 🏨 Projeto Vesta
+## 🏨 Projeto Vesta
 
 **Sistema de Gestão Hoteleira** desenvolvido para automatizar e otimizar as operações diárias de hotéis e pousadas. O Vesta centraliza o controle de reservas, o cadastro de hóspedes e a gestão financeira em uma plataforma eficiente, robusta e de fácil navegação.
 
